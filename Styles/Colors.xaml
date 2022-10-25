@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:GenAssess">
+
+    <Color x:Key="BackgroundDark">#1D1D1D</Color>
+    <SolidColorBrush x:Key="BackgroundDarkBrush" Color="{StaticResource BackgroundDark}"/>
+    
+    <Color x:Key="BackgroundVeryDark">#181818</Color>
+    <SolidColorBrush x:Key="BackgroundVeryDarkBrush" Color="{StaticResource BackgroundVeryDark}"/>
+
+    <Color x:Key="BackgroundSemiDark">#383838</Color>
+    <SolidColorBrush x:Key="BackgroundSemiDarkBrush" Color="{StaticResource BackgroundSemiDark}"/>
+
+    <Color x:Key="ForegroundMain">#F0F0F0</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}"/>
+
+    <Color x:Key="ForegroundVeryLight">#FFFFFF</Color>
+    <SolidColorBrush x:Key="ForegroundVeryLightBrush" Color="{StaticResource ForegroundVeryLight}"/>
+
+    <Color x:Key="MenuItemDarkBackground">#040404</Color>
+    <SolidColorBrush x:Key="MenuItemDarkBackgroundBrush" Color="{StaticResource MenuItemDarkBackground}"/>
+
+    <Color x:Key="MenuItemDarkBorder">#212121</Color>
+    <SolidColorBrush x:Key="MenuItemDarkBorderBrush" Color="{StaticResource MenuItemDarkBorder}"/>
+
+    <Color x:Key="ForegroundDark">#000000</Color>
+    <SolidColorBrush x:Key="ForegroundDarkBrush" Color="{StaticResource ForegroundDark}"/>
+</ResourceDictionary>
